@@ -1,0 +1,10 @@
+·依赖于vclj插件
+·可播放视频和音频
+
+·依赖的jar包（3个）和dll文件（2个）已放在目录
+·需要下载vlcj插件
+
+·已知bug有无法在最后2s内正确停止视频播放（音画不同步）
+
+相关链接：https://cshihong.blog.csdn.net/article/details/77572172    （插件vlcj 和slf4j 以及VLC下载地址）
+	 https://github.com/aloys-jun/player-vlcj                      
